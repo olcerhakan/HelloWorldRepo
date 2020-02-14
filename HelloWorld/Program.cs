@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Yiğit was here!!!");
+            Console.WriteLine("Berkay Boran was here too!!!");
             Console.ReadKey();
         }
     }
